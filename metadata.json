@@ -1,0 +1,6 @@
+{
+  "name": "Duolingo · Desbloquea tu Ascenso Laboral en 60 Segundos",
+  "description": "Diagnóstico interactivo de 60 segundos para profesionales que quieren dominar el inglés laboral, desbloquear ascensos y activar 14 días gratis de Super Duolingo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
